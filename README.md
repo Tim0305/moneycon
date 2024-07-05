@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Moneycon</strong></h1>
 Conversor de monedas de cualquier lugar del mundo
-![Imagen representativa de la funcionalidad de la aplicacion](https://github.com/Tim0305/moneycon/assets/83103008/64ccbccb-4744-489c-97a4-ee84e3239355)
+![Imagen representativa de la funcionalidad de la aplicacion](imagen/imagen.jpg)
 
 ## Descripción del proyecto
 Moneycon es una aplicación de consola que implementa el consumo de API para obtener las conversiones de algunas monedas específicas que están implementadas en la aplicación.
